@@ -9,7 +9,7 @@ export default function Page() {
     const fetch_data = async () => {
       try {
         const response = await fetch(
-          'https://2ea45e1c-1101-4dcd-a661-6c94748e4b4b-00-1v1mt5f26vqi3.janeway.replit.dev/oil',
+          'https://ba857d18-bb25-48dc-b306-2804a8c9d5a1-00-1n644cgkhb4s9.spock.replit.dev/oil',
           {
             headers: {
               'Content-Type': 'application/json',
